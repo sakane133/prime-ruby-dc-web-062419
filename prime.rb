@@ -1,7 +1,7 @@
-def prime?
+def prime?(number)
 numbers = []
  x = 1 
- num = numbers.size
+ int = numbers.size
  loop do
    if num % x == 0 
      true
