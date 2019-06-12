@@ -4,7 +4,8 @@ def prime?(number)
    (2...number).each do |num|
    elsif (number % num) == 0  
       return false
+    else 
+      true 
    end
 end
-true
 end
