@@ -3,11 +3,8 @@ def prime?(number)
     return false
   elsif
     (2...number).each do |num|
-      if value % i == 0
+      if number % num == 0
       return false
-if (number % num) == 0  
-      return false
-    else 
    end
 end
 true
