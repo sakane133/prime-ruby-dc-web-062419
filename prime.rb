@@ -5,8 +5,8 @@ if (number % num) == 0
     else 
       
    end
+   if number < 2 
+  false
 end
 true
-if number < 2 
-  false
 end
