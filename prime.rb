@@ -3,11 +3,7 @@ def prime?(number)
 if (number % num) == 0  
       return false
     else 
-      
    end
-   if number < 2 
-  false
-end
 end
 true
 end
