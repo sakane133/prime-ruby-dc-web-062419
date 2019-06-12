@@ -7,4 +7,6 @@ if (number % num) == 0
    end
 end
 true
+if number < 2 
+  false
 end
