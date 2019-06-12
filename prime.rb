@@ -6,4 +6,5 @@ def prime?(number)
      false
    end
 end
+true
 end
