@@ -2,10 +2,11 @@ def prime?(number)
   if number < 2
     false
    (2...number).each do |num|
-elsif (number % num) == 0  
+if (number % num) == 0  
       return false
     else 
-      true 
+      
    end
 end
+true
 end
