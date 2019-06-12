@@ -5,4 +5,3 @@ def prime?(number)
    else
      FALSE
    end
-
