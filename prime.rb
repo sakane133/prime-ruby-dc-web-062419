@@ -8,5 +8,6 @@ if (number % num) == 0
    if number < 2 
   false
 end
+end
 true
 end
